@@ -35,7 +35,11 @@ A simple GUI calculator application built with Java using AWT (Abstract Window T
 
 ### Usage
 . Click on the number buttons to input numbers.
+
 . Use the operator buttons to perform calculations.
+
 . Press "=" to see the result.
+
 . Use "C" to clear the display and reset the calculator.
+
 . Press "Off" to exit the application.
